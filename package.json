@@ -1,0 +1,32 @@
+{
+  "name": "serve-ini",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "serve-ini is a Node.js module designed to effortlessly read and process configuration files from a directory. 📂 It supports reading INI files 📄 and organizing configurations into a nested structure based on directory and file names",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rumoursbehindme/serve-ini.git"
+  },
+  "author": "rumoursbehindme",
+  "license": "MIT",
+  "dependencies": {
+    "ini": "^4.1.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [
+    "sic",
+    "serveINIConfigurations"
+  ],
+  "bugs": {
+    "url": "https://github.com/rumoursbehindme/serve-ini/issues"
+  },
+  "homepage": "https://github.com/rumoursbehindme/serve-ini#readme"
+}
