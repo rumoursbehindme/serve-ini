@@ -1,6 +1,6 @@
 {
   "name": "serve-ini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "serve-ini is a Node.js module designed to effortlessly read and process configuration files from a directory. 📂 It supports reading INI files 📄 and organizing configurations into a nested structure based on directory and file names",
   "main": "index.js",
